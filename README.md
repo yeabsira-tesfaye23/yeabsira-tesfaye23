@@ -1,16 +1,26 @@
-## Hi there 👋
+<h1 align="center">Hi 👋, I'm Yeabsira Tesfaye</h1>
 
-<!--
-**yeabsira-tesfaye23/yeabsira-tesfaye23** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+<h3 align="center">
+Software Engineering Student | Front-End Developer | Future Full-Stack Engineer
+</h3>
 
-Here are some ideas to get you started:
+<p align="center">
+I build clean, responsive, and modern web applications while continuously learning new technologies.
+</p>
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+<p align="center">
+  <a href="https://github.com/yeabsira-tesfaye23">
+    <img src="https://komarev.com/ghpvc/?username=yeabsira-tesfaye23&label=Profile%20Views&color=0e75b6&style=for-the-badge" alt="Profile Views" />
+  </a>
+</p>
+
+---
+
+## 🚀 About Me
+
+- 🎓 Second-Year Software Engineering Student
+- 🌍 Based in Ethiopia
+- 💻 Passionate about Front-End Development
+- 🌱 Currently learning Flutter, Java, and JavaScript
+- 🎯 Goal: Build professional software and modern websites
+- ⚡ I enjoy solving real-world problems through code.
