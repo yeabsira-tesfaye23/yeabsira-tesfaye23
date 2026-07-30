@@ -33,7 +33,6 @@ I build clean, responsive, and modern web applications while continuously learni
 ## 🐍 My Contributions
 
 <div align="center">
-
-<img src="https://raw.githubusercontent.com/yeabsira-tesfaye23/yeabsira-tesfaye23/output/github-contribution-grid-snake.svg" />
+<img src="https://raw.githubusercontent.com/yeabsira-tesfaye23/yeabsira-tesfaye23/gh-pages/github-contribution-grid-snake.svg" />
 
 </div>
