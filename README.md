@@ -41,7 +41,7 @@ I build clean, responsive, and modern web applications while continuously learni
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://streak-stats.demolab.com/?user=yeabsira-tesfaye23&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF&_=1" alt="GitHub Streak" />
+<img src="https://github-readme-streak-stats-eight.vercel.app?user=yeabsira-tesfaye23&theme=tokyonight&hide_border=true&background=0D1117&ring=00F7FF&fire=00F7FF&currStreakLabel=00F7FF" alt="GitHub Streak" />
 </div>
 
 ---
