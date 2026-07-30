@@ -29,6 +29,13 @@ I build clean, responsive, and modern web applications while continuously learni
 - 🎯 Goal: Build professional software and modern websites
 - ⚡ I enjoy solving real-world problems through code.
 - ---
+## 📊 GitHub Stats
+
+<div align="center">
+
+<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeabsira-tesfaye23" />
+
+</div>
 
 ## 🐍 My Contributions
 
