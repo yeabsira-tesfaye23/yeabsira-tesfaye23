@@ -33,7 +33,13 @@ I build clean, responsive, and modern web applications while continuously learni
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=yeabsira-tesfaye23" />
+## 🔥 GitHub Streak
+
+<div align="center">
+
+<img src="https://streak-stats.demolab.com?user=yeabsira-tesfaye23" />
+
+</div>
 
 </div>
 
