@@ -32,12 +32,15 @@ I build clean, responsive, and modern web applications while continuously learni
 ## 📊 GitHub Stats
 
 <div align="center">
-
-## 🔥 GitHub Streak
+## 📊 GitHub Analytics
 
 <div align="center">
 
-<img src="https://streak-stats.demolab.com/?user=yeabsira-tesfaye23&theme=dark" />
+<img src="https://github-readme-stats.vercel.app/api?username=yeabsira-tesfaye23&show_icons=true&theme=tokyonight" />
+
+<br/>
+
+<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=yeabsira-tesfaye23&layout=compact&theme=tokyonight" />
 
 </div>
 
