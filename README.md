@@ -49,8 +49,8 @@ I build clean, responsive, and modern web applications while continuously learni
 ## 📊 GitHub Stats
 
 <p align="center">
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api?username=yeabsira-tesfaye23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="49%" />
-  <img src="https://github-readme-stats-git-masterrstaa-rickstaa.vercel.app/api/top-langs/?username=yeabsira-tesfaye23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="35%" />
+  <img src="https://github-readme-stats-xi-ten-14.vercel.app/api?username=yeabsira-tesfaye23&show_icons=true&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF&icon_color=00F7FF" width="49%" />
+  <img src="https://github-readme-stats-xi-ten-14.vercel.app/api/top-langs/?username=yeabsira-tesfaye23&layout=compact&theme=tokyonight&hide_border=true&bg_color=0D1117&title_color=00F7FF" width="35%" />
 </p>
 
 ---
