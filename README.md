@@ -55,10 +55,10 @@ I build clean, responsive, and modern web applications while continuously learni
 
 ---
 
-## 🏆 GitHub Trophies
+## 📈 Activity Graph
 
 <div align="center">
-  <img src="https://github-profile-trophy.vercel.app/?username=yeabsira-tesfaye23&theme=tokyonight&no-frame=true&column=7&margin-w=8" />
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=yeabsira-tesfaye23&theme=react-dark&bg_color=0D1117&color=FF5F6D&line=FFC93C&point=FFFFFF&hide_border=true" alt="GitHub Activity Graph" />
 </div>
 
 ---
