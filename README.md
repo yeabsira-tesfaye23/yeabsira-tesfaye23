@@ -20,7 +20,7 @@ I build clean, responsive, and modern web applications while continuously learni
 
 ---
 
-## 🚀 About Me
+##  About Me
 - 🎓 Second-Year Software Engineering Student
 - 🌍 Based in Ethiopia
 - 💻 Passionate about Front-End Development
