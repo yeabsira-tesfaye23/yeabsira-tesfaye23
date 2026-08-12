@@ -41,7 +41,7 @@ I build clean, responsive, and modern web applications while continuously learni
 ## 🔥 GitHub Streak
 
 <div align="center">
-  <img src="https://github-readme-streak-stats-eight.vercel.app?user=yeabsira-tesfaye23&theme=radical&hide_border=true&background=0D1117&ring=FF5F6D&fire=FFC93C&currStreakNum=FFFFFF&sideNums=FF5F6D&currStreakLabel=FFC93C&sideLabels=94A3B8&dates=6B7280&v=1" alt="GitHub Streak" />
+  <img src="https://github-readme-streak-stats-eight.vercel.app?user=yeabsira-tesfaye23&theme=radical&hide_border=true&background=0D1117&ring=FF5F6D&fire=FFC93C&currStreakNum=FFFFFF&sideNums=FF5F6D&currStreakLabel=FFC93C&sideLabels=94A3B8&dates=6B7280&v=8" alt="GitHub Streak" />
 </div>
 
 ---
